@@ -1,0 +1,291 @@
+@media (max-width: 1440px) {}
+@media (max-width: 1199px) {}
+@media (max-width: 991px) {
+    .extra-lg-text h1 {
+    font-size: 3.9rem;
+    line-height: 3.2rem;
+}
+    .image-grid {
+        width: 100%;
+        height: 158px;
+    }
+    #Budget-sec ul.nav li {
+        margin: 0 0px;
+        width: 100%;
+    }
+    #Budget-sec .card-body {
+        margin: 0px 0 0px 0;
+    }
+    .prc-second-rw {
+        margin-top: 0;
+    }
+    .Packages-card-small {
+        margin: 30px 0 30px 0;
+    }
+    .large {
+        padding: 0px 35px;
+        transform: unset;
+    }
+    .innr-pge-heading {
+        padding: 5rem 2rem;
+    }
+    .extra-lg-text {
+        font-size: 2.8rem;
+        line-height: 2.7rem;
+    }
+
+    .header {
+        padding: 16rem 3.5rem 7rem;
+    }
+    .cnav .logo-holder img {
+        width: 10.4rem;
+    }
+    .cnav {
+        padding: 2rem 3.5rem;
+    }
+    .boxy.img-box {
+        min-height: 775px;
+    }
+    .boxy {
+        padding: 4rem 6rem;
+    }
+    .tablet-scr {
+        flex-direction: column-reverse;
+    }
+    .lg-text {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    .default-content {
+        padding: 5rem 2.5rem 5rem;
+    }
+
+    .other-content {
+        padding: 5rem 3.5rem 5rem;
+    }
+    .footer {
+        padding: 5rem 6rem 5rem;
+    }
+    .footer .contact-info-holder .contact-info, .few-contact .contact-info-holder .contact-info {
+        font-size: 3rem;
+    }
+
+    .footer .contact-info-holder .contact-info a, .few-contact .contact-info-holder .contact-info a {
+        font-size: 3rem;
+    }
+    .budget-text {
+        margin: 0;
+    }
+}
+@media (max-width: 767px) {
+    .extra-lg-text h1 {
+    font-size: 3rem;
+    line-height: 3.1rem;
+}
+    .text-box p {
+        text-align: justify;
+        text-align-last: center;
+    }
+    .header {
+        padding: 10rem 3.5rem 2rem;
+    }
+
+    .extra-lg-text {
+        font-size: 2.2rem;
+        line-height: 2.5rem;
+    }
+    .boxy h1.title {
+        font-size: 2rem;
+        line-height: 2.4rem;
+        margin-bottom: 0rem;
+    }
+    .md-text {
+        font-size: 1.2rem;
+        line-height: 1.6rem;
+    }
+
+
+    body p {
+        line-height: 2rem;
+        font-size: 0.9rem;
+        text-align: justify;
+    }
+    .cnav {
+        padding: 1rem 2.5rem;
+    }
+    .boxy.img-box {
+        min-height: 634px;
+    }
+    #my-video {
+        transform: translateX(-9%) translateY(-13%);
+    }
+    .diff-txt {
+        font-size: 1.6rem;
+    }
+    .lg-text {
+        font-size: 1.5rem;
+        line-height: 2.5rem;
+    }
+    .normal-text p {
+        text-align: center;
+    }
+    
+    .boxy.simple-data {
+        padding: 4rem 3rem;
+    }
+}
+@media (max-width: 567px) {
+    .extra-lg-text h1 {
+    font-size: 2.3rem;
+    line-height: 2.5rem;
+}
+    #Budget-sec {
+        padding: 50px;
+    }
+    .small-cmln, .large {
+        padding: 0;
+    }
+    
+    .text-innr-pge {
+        padding: 0 0;
+    }
+    .innr-pge-heading {
+        padding: 5rem 2rem;
+    }
+    .menu-toggle:before {
+        display: none;
+    }
+    .header {
+        padding: 7rem 0.5rem 1rem;
+    }
+    .extra-lg-text {
+        font-size: 2.0rem;
+        line-height: 2.2rem;
+    }
+    .cnav .logo-holder img {
+        width: 8.4rem;
+    }
+    .boxy {
+        padding: 3rem 3rem;
+    }
+    #my-video {
+        transform:unset;
+        width: 100%;
+    }
+    .boxy.img-box {
+        min-height: 499px;
+    }
+    .header .row {
+        margin: 0;
+    }
+    .clients-section {
+        padding: 3rem 2rem;
+    }
+    .other-content {
+        padding: 5rem 1rem 5rem;
+    }
+    .footer {
+        padding: 3rem 3rem 3rem;
+    }
+    .footer .contact-info-holder .contact-info, .few-contact .contact-info-holder .contact-info {
+        font-size: 2rem;
+    }
+
+    .footer .contact-info-holder .contact-info a, .few-contact .contact-info-holder .contact-info a {
+        font-size: 2rem;
+    }
+    .footer .contact-info-holder .social-media .social-link-holder a {
+        font-size: 1rem;
+    }
+}
+@media (max-width: 480px) {
+    .extra-lg-text h1 {
+    font-size: 2rem;
+    line-height: 2.2rem;
+}
+    #Budget-sec {
+        padding: 50px 0;
+    }
+    .extra-lg-text {
+        font-size: 1.6rem;
+        line-height: 2rem;
+    }
+   .header #myVideo {
+        height: 300px;
+        object-fit: cover;
+    }
+    .boxy.img-box {
+        min-height: 423px;
+        padding: 1.2rem;
+    }
+    .footer {
+        padding: 3rem 1rem 3rem;
+    }
+    .boxy h1.title {
+        font-size: 1.8rem;
+        line-height: 2.3rem;
+        margin-bottom: 1rem;
+    }
+}
+@media (max-width: 414px) {
+    .extra-lg-text {
+        font-size: 1.4rem;
+        line-height: 1.7rem;
+    }
+    .boxy {
+        padding: 2rem 2rem;
+    }
+    .diff-txt {
+        font-size: 1.4rem;
+    }
+    .boxy.img-box {
+        min-height: 366px;
+    }
+    .lg-text {
+        font-size: 1.5rem;
+        line-height: 1.9rem;
+    }
+    .default-content {
+        padding: 3rem 2.5rem 3rem;
+    }
+    .other-content .normal-text {
+        margin: 0px 0 30px 0 !important;
+    }
+    .cr-btn.ex-padding {
+        padding: 1.3rem 1.7rem 1rem;
+    }
+    .normal-text p {
+        font-size: 0.8rem;
+    }
+    .cnav .logo-holder img {
+        width: 7.4rem;
+    }
+    .main-menu .menu-links ul li a {
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+    .default-content .normal-text {
+        margin-bottom: 3rem;
+    }
+    .normal-text p {
+        text-align: justify;
+        text-align-last: center;
+    }
+}
+@media (max-width: 360px) {
+    .extra-lg-text h1 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+    .footer .contact-info-holder .contact-info, .few-contact .contact-info-holder .contact-info {
+        font-size: 1.4rem;
+    }
+
+    .footer .contact-info-holder .contact-info a, .few-contact .contact-info-holder .contact-info a {
+        font-size: 1.4rem;
+    }
+    .boxy.img-box {
+        min-height: 318px;
+    }
+}
